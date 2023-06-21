@@ -1,0 +1,8 @@
+#Github.com-Vasusen-code
+
+https://github.com/vasusen-code/Telethon/archive/refs/tags/v1.24.0.zip
+https://github.com/asmrgay/ethon/archive/refs/tags/v1.3.8.zip
+cryptg
+tgcrypto
+pyrogram
+#pyrogram==1.4.16
