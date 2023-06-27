@@ -44,6 +44,6 @@ async def remt(event):
   
 @Drone.on(events.NewMessage(incoming=True, pattern=f"{S}"))
 async def start(event):
-    text = "将任何消息的链接发送给我以在此处复制它，对于私人频道消息，请先发送邀请链接。\n\n**SUPPORT:** @asmrgay"
+    text = "将任何消息的链接发送给我以在此处复制它，对于私人频道消息，请先发送邀请链接。\nPs: 这是私聊机器人，别在群聊里玩的，点击 @asmrgay_save_bot 进入私聊。\n\n**SUPPORT:** @asmrgay"
     await start_srb(event, text)
     
